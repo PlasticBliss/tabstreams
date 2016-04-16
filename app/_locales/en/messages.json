@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "instab",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "ig collage tabs",
+    "description": "The description of the application"
+  }
+}
